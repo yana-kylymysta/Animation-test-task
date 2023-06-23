@@ -309,7 +309,7 @@ body.lock {
 }
 
 .contact__title {
-    background: url(/images/contact-img.png) right bottom /69px no-repeat;
+    background: url(../images/contact-img.png) right bottom /69px no-repeat;
     margin-bottom: 40px;
     min-height: 69px;
 }
