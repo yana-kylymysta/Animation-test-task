@@ -144,7 +144,7 @@ body.lock {
   .header__block {
       opacity: 0;
       position: fixed;
-      top: -350%;
+      top: -100vh;
       position: absolute;
       left: 0;
       width: 100%;
